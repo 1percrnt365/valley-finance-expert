@@ -1,6 +1,7 @@
 # Valley AI Financial Report Template
 
 ## Title: [Provocative or Thesis-Driven Headline]
+**Report Date: [YYYY-MM-DD]**
 
 ### 1. Introduction: Market Context & Thesis
 - **Brief Overview**: 1-2 paragraphs introducing the topic or stock.
