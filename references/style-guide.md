@@ -21,6 +21,14 @@ Always end with a call to action for feedback.
 - Example: "What do you think? Share your thoughts below!"
 - Example: "Let's discuss this in the comments."
 
-## 5. Length Guidance
-- **Quick Brief**: 300-500 characters.
-- **Deep Analysis**: 500-1000+ characters.
+## 5. Length & Depth Guidance (High-Quality Standards)
+- **Deep Analysis Report**: Minimum 3,000 ~ 5,000+ characters. 
+- **Detailed Structure**: Each major section (Introduction, Bull Case, Bear Case, Conclusion) should contain at least 400-800 words of deep analysis.
+- **Section Points**: Each case (Bull/Bear) must include at least 5+ specific data-backed points.
+- **Explicit Content**: Do not summarize briefly. Every claim must be explored in depth, including macro context, technical analysis, and specific portfolio strategies.
+- **Example structure**:
+    - Macro/Industry Overview (800+ chars)
+    - Detailed Bull Case with 5+ points (1,200+ chars)
+    - Detailed Bear Case with 5+ points (1,200+ chars)
+    - Technical Analysis & Portfolio Strategy (800+ chars)
+
